@@ -1,3 +1,27 @@
+import WirelessEarbuds from "../assets/Wireless Earbuds.avif";
+import Smartwatch from "../assets/Smartwatch.jpg";
+import MenTShirt from "../assets/Men's T-Shirt.jpg";
+import WomenJacket from "../assets/Women's Jacket.jpg";
+import FaceMoisturizer from "../assets/Face Moisturizer.jpg";
+import ShavingKit from "../assets//Shaving Kit.jpg";
+import SofaSet from "../assets//Sofa Set.jpg";
+import DiningTable from "../assets/Dining Table.jpg";
+import LegoBuildingSet from "../assets/Lego Building Set.jpg";
+import RemoteControlCar from "../assets/Remote Control Ca.jpg";
+import SmartphonePro from "../assets/Smartphone Pro.avif";
+import BudgetSmartphone from "../assets/Budget Smartphon.avif";
+import BluetoothSpeaker from "../assets/Bluetooth Speaker.jpg";
+import WirelessCharger from "../assets/Wireless Charger.jpg";
+import LeatherWallet from "../assets/Leather Wallet.jpg";
+import GamingChair from "../assets/Gaming Chair.jpg";
+import KidPuzzle from "../assets/Kid's Puzzle.avif";
+import RobotDogToy from "../assets/Robot Dog Toy.jpg";
+import MenJeans from "../assets/Men's Jeans.jpg";
+import WomenDress from "../assets/Women's Dress.jpg";
+import ElectricShaver from "../assets/Electric Shaver.jpg";
+import MobilePhoneStand from "../assets/Mobile Phone Stand.avif";
+import OfficeDesk from "../assets/Office Desk.jpg";
+import Dollhouse from "../assets/Dollhouse.avif";
 export const products = [
     {
       id: 1,
@@ -5,7 +29,7 @@ export const products = [
       price: 59.99,
       category: "Electronics",
       rating: 4.3,
-      image: "public/Bluetooth Speaker.jpg",
+      image: WirelessEarbuds,
     },
     {
       id: 2,
@@ -13,7 +37,7 @@ export const products = [
       price: 149.99,
       category: "Electronics",
       rating: 4.5,
-      image: "public/Smartwatch.jpg",
+      image: Smartwatch,
     },
     {
       id: 3,
@@ -21,7 +45,7 @@ export const products = [
       price: 19.99,
       category: "Clothing",
       rating: 4.0,
-      image: "public/Men's T-Shirt.jpg",
+      image: MenTShirt,
     },
     {
       id: 4,
@@ -29,7 +53,7 @@ export const products = [
       price: 79.99,
       category: "Clothing",
       rating: 4.7,
-      image: "public/Women's Jacket.jpg",
+      image: WomenJacket,
     },
     {
       id: 5,
@@ -37,7 +61,7 @@ export const products = [
       price: 25.99,
       category: "Grooming",
       rating: 4.6,
-      image: "public/Face Moisturizer.jpg",
+      image: FaceMoisturizer,
     },
     {
       id: 6,
@@ -45,7 +69,7 @@ export const products = [
       price: 39.99,
       category: "Grooming",
       rating: 4.2,
-      image: "public/Shaving Kit.jpg",
+      image: ShavingKit,
     },
     {
       id: 7,
@@ -53,7 +77,7 @@ export const products = [
       price: 499.99,
       category: "Furniture",
       rating: 4.1,
-      image: "public/Sofa Set.jpg",
+      image: SofaSet,
     },
     {
       id: 8,
@@ -61,7 +85,7 @@ export const products = [
       price: 299.99,
       category: "Furniture",
       rating: 4.3,
-      image: "public/Dining Table.jpg",
+      image: DiningTable,
     },
     {
       id: 9,
@@ -69,7 +93,7 @@ export const products = [
       price: 59.99,
       category: "Toys",
       rating: 4.8,
-      image: "public/Lego Building Set.jpg",
+      image: LegoBuildingSet,
     },
     {
       id: 10,
@@ -77,7 +101,7 @@ export const products = [
       price: 39.99,
       category: "Toys",
       rating: 4.5,
-      image: "public/Remote Control Ca.jpg",
+      image: RemoteControlCar,
     },
     {
       id: 11,
@@ -85,7 +109,7 @@ export const products = [
       price: 699.99,
       category: "Mobiles",
       rating: 4.7,
-      image: "public/Smartphone Pro.avif",
+      image: SmartphonePro,
     },
     {
       id: 12,
@@ -93,7 +117,7 @@ export const products = [
       price: 199.99,
       category: "Mobiles",
       rating: 4.3,
-      image: "public/Budget Smartphon.avif",
+      image: BudgetSmartphone,
     },
     {
       id: 13,
@@ -101,7 +125,7 @@ export const products = [
       price: 49.99,
       category: "Electronics",
       rating: 4.4,
-      image: "public/Bluetooth Speaker.jpg",
+      image: BluetoothSpeaker,
     },
     {
       id: 14,
@@ -109,7 +133,7 @@ export const products = [
       price: 29.99,
       category: "Electronics",
       rating: 4.2,
-      image: "public/Wireless Charger.jpg",
+      image: WirelessCharger,
     },
     {
       id: 15,
@@ -117,7 +141,7 @@ export const products = [
       price: 24.99,
       category: "Grooming",
       rating: 4.6,
-      image: "public/Leather Wallet.jpg",
+      image: LeatherWallet,
     },
     {
       id: 16,
@@ -125,7 +149,7 @@ export const products = [
       price: 149.99,
       category: "Furniture",
       rating: 4.5,
-      image: "public/Gaming Chair.jpg",
+      image: GamingChair,
     },
     {
       id: 17,
@@ -133,7 +157,7 @@ export const products = [
       price: 14.99,
       category: "Toys",
       rating: 4.1,
-      image: "public/Kid's Puzzle.avif",
+      image: KidPuzzle,
     },
     {
       id: 18,
@@ -141,7 +165,7 @@ export const products = [
       price: 89.99,
       category: "Toys",
       rating: 4.7,
-      image: "public/Robot Dog Toy.jpg",
+      image: RobotDogToy,
     },
     {
       id: 19,
@@ -149,7 +173,7 @@ export const products = [
       price: 49.99,
       category: "Clothing",
       rating: 4.3,
-      image: "public/Men's Jeans.jpg",
+      image: MenJeans,
     },
     {
       id: 20,
@@ -157,7 +181,7 @@ export const products = [
       price: 59.99,
       category: "Clothing",
       rating: 4.6,
-      image: "public/Women's Dress.jpg",
+      image: WomenDress,
     },
     {
       id: 21,
@@ -165,7 +189,7 @@ export const products = [
       price: 69.99,
       category: "Grooming",
       rating: 4.4,
-      image: "public/Electric Shaver.jpg",
+      image: ElectricShaver,
     },
     {
       id: 22,
@@ -173,7 +197,7 @@ export const products = [
       price: 9.99,
       category: "Electronics",
       rating: 4.1,
-      image: "public/Mobile Phone Stand.avif",
+      image: MobilePhoneStand,
     },
     {
       id: 23,
@@ -181,7 +205,7 @@ export const products = [
       price: 199.99,
       category: "Furniture",
       rating: 4.2,
-      image: "public/Office Desk.jpg",
+      image: OfficeDesk,
     },
     {
       id: 24,
@@ -189,7 +213,7 @@ export const products = [
       price: 109.99,
       category: "Toys",
       rating: 4.8,
-      image: "public/Dollhouse.avif",
+      image: Dollhouse,
     },
     
   ];
