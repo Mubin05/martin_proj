@@ -5,7 +5,7 @@ export const products = [
       price: 59.99,
       category: "Electronics",
       rating: 4.3,
-      image: "src/assets/Bluetooth Speaker.jpg",
+      image: "public/Bluetooth Speaker.jpg",
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ export const products = [
       price: 149.99,
       category: "Electronics",
       rating: 4.5,
-      image: "src/assets/Smartwatch.jpg",
+      image: "public/Smartwatch.jpg",
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ export const products = [
       price: 19.99,
       category: "Clothing",
       rating: 4.0,
-      image: "src/assets/Men's T-Shirt.jpg",
+      image: "public/Men's T-Shirt.jpg",
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ export const products = [
       price: 79.99,
       category: "Clothing",
       rating: 4.7,
-      image: "src/assets/Women's Jacket.jpg",
+      image: "public/Women's Jacket.jpg",
     },
     {
       id: 5,
@@ -37,7 +37,7 @@ export const products = [
       price: 25.99,
       category: "Grooming",
       rating: 4.6,
-      image: "src/assets/Face Moisturizer.jpg",
+      image: "public/Face Moisturizer.jpg",
     },
     {
       id: 6,
@@ -45,7 +45,7 @@ export const products = [
       price: 39.99,
       category: "Grooming",
       rating: 4.2,
-      image: "src/assets/Shaving Kit.jpg",
+      image: "public/Shaving Kit.jpg",
     },
     {
       id: 7,
@@ -53,7 +53,7 @@ export const products = [
       price: 499.99,
       category: "Furniture",
       rating: 4.1,
-      image: "src/assets/Sofa Set.jpg",
+      image: "public/Sofa Set.jpg",
     },
     {
       id: 8,
@@ -61,7 +61,7 @@ export const products = [
       price: 299.99,
       category: "Furniture",
       rating: 4.3,
-      image: "src/assets/Dining Table.jpg",
+      image: "public/Dining Table.jpg",
     },
     {
       id: 9,
@@ -69,7 +69,7 @@ export const products = [
       price: 59.99,
       category: "Toys",
       rating: 4.8,
-      image: "src/assets/Lego Building Set.jpg",
+      image: "public/Lego Building Set.jpg",
     },
     {
       id: 10,
@@ -77,7 +77,7 @@ export const products = [
       price: 39.99,
       category: "Toys",
       rating: 4.5,
-      image: "src/assets/Remote Control Ca.jpg",
+      image: "public/Remote Control Ca.jpg",
     },
     {
       id: 11,
@@ -85,7 +85,7 @@ export const products = [
       price: 699.99,
       category: "Mobiles",
       rating: 4.7,
-      image: "src/assets/Smartphone Pro.avif",
+      image: "public/Smartphone Pro.avif",
     },
     {
       id: 12,
@@ -93,7 +93,7 @@ export const products = [
       price: 199.99,
       category: "Mobiles",
       rating: 4.3,
-      image: "src/assets/Budget Smartphon.avif",
+      image: "public/Budget Smartphon.avif",
     },
     {
       id: 13,
@@ -101,7 +101,7 @@ export const products = [
       price: 49.99,
       category: "Electronics",
       rating: 4.4,
-      image: "src/assets/Bluetooth Speaker.jpg",
+      image: "public/Bluetooth Speaker.jpg",
     },
     {
       id: 14,
@@ -109,7 +109,7 @@ export const products = [
       price: 29.99,
       category: "Electronics",
       rating: 4.2,
-      image: "src/assets/Wireless Charger.jpg",
+      image: "public/Wireless Charger.jpg",
     },
     {
       id: 15,
@@ -117,7 +117,7 @@ export const products = [
       price: 24.99,
       category: "Grooming",
       rating: 4.6,
-      image: "src/assets/Leather Wallet.jpg",
+      image: "public/Leather Wallet.jpg",
     },
     {
       id: 16,
@@ -125,7 +125,7 @@ export const products = [
       price: 149.99,
       category: "Furniture",
       rating: 4.5,
-      image: "src/assets/Gaming Chair.jpg",
+      image: "public/Gaming Chair.jpg",
     },
     {
       id: 17,
@@ -133,7 +133,7 @@ export const products = [
       price: 14.99,
       category: "Toys",
       rating: 4.1,
-      image: "src/assets/Kid's Puzzle.avif",
+      image: "public/Kid's Puzzle.avif",
     },
     {
       id: 18,
@@ -141,7 +141,7 @@ export const products = [
       price: 89.99,
       category: "Toys",
       rating: 4.7,
-      image: "src/assets/Robot Dog Toy.jpg",
+      image: "public/Robot Dog Toy.jpg",
     },
     {
       id: 19,
@@ -149,7 +149,7 @@ export const products = [
       price: 49.99,
       category: "Clothing",
       rating: 4.3,
-      image: "src/assets/Men's Jeans.jpg",
+      image: "public/Men's Jeans.jpg",
     },
     {
       id: 20,
@@ -157,7 +157,7 @@ export const products = [
       price: 59.99,
       category: "Clothing",
       rating: 4.6,
-      image: "src/assets/Women's Dress.jpg",
+      image: "public/Women's Dress.jpg",
     },
     {
       id: 21,
@@ -165,7 +165,7 @@ export const products = [
       price: 69.99,
       category: "Grooming",
       rating: 4.4,
-      image: "src/assets/Electric Shaver.jpg",
+      image: "public/Electric Shaver.jpg",
     },
     {
       id: 22,
@@ -173,7 +173,7 @@ export const products = [
       price: 9.99,
       category: "Electronics",
       rating: 4.1,
-      image: "src/assets/Mobile Phone Stand.avif",
+      image: "public/Mobile Phone Stand.avif",
     },
     {
       id: 23,
@@ -181,7 +181,7 @@ export const products = [
       price: 199.99,
       category: "Furniture",
       rating: 4.2,
-      image: "src/assets/Office Desk.jpg",
+      image: "public/Office Desk.jpg",
     },
     {
       id: 24,
@@ -189,7 +189,7 @@ export const products = [
       price: 109.99,
       category: "Toys",
       rating: 4.8,
-      image: "src/assets/Dollhouse.avif",
+      image: "public/Dollhouse.avif",
     },
     
   ];
